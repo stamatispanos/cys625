@@ -7,7 +7,7 @@ import collections
 def counter(data_in):
     # english alphabet
     alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-    # turn input data to lowercase
+    # turn input data to uppercase
     raw_text = data_in.upper()
     # initialize variable
     data_out = '"'
