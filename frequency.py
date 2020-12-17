@@ -42,7 +42,7 @@ if __name__ == '__main__':
         for option, a in opts:
 
             if option in ("-h", "--help"):
-                print("usage: caesar.py [options]")
+                print("usage: frequency.py [options]")
                 print("short  long        function")
                 print(" -h   --help       show this help")
                 print(" -i   --input      input filename (text, for example input.txt)")
